@@ -1,0 +1,8 @@
+Dog
+Buffallo
+Cat
+Cow
+Pig
+Sheep
+Goat
+Hen
